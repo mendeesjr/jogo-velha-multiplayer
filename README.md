@@ -1,6 +1,10 @@
-# JogoVelha
+# Jogo da Velha Multiplayer
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.4.
+
+## Install dependencies
+
+Run `npm i` in project root.
 
 ## Development server
 
